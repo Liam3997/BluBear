@@ -2,9 +2,9 @@
 A personal website/game built in Unity
 
 ## Controls
-WASD/Arrows : Move
-SPACE : Jump
-MOUSE : Point and Click
+- WASD/Arrows : Move
+- SPACE : Jump
+- MOUSE : Point and Click
 
 ## Website to do list
 - Reconnect to Database
